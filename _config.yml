@@ -1,0 +1,28 @@
+name: tmark
+favicon: null
+layout_spectrum: 0.312477963976562
+typography_spectrum: 0.8172639911063015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8926665538456291
+  lightness: 0.7020654487423599
+  saturation: 0.9343453175388277
+  rhythmicContrast: 0.41670895810239017
+purpose: []
